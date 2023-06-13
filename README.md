@@ -1,17 +1,4 @@
-<<<<<<< HEAD
-### 목차
-
-<br/>
-
-- [플레이](#플레이)
-
-- [기타](#기타)
-
-<br/>
-
-## 플레이
-
-![ezgif-3-1887db5bab](https://user-images.githubusercontent.com/71358959/152690076-212c3bec-f5cc-439f-b9d2-7c583ee1670c.gif)
+참조를 해서 만든 프로젝트입니다
 
 
 **RULE**
